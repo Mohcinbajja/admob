@@ -1,0 +1,2 @@
+# admob
+for ads.txt
