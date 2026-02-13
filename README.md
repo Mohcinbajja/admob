@@ -1,2 +1,1 @@
-# admob
-for ads.txt
+google.com, pub-9700554883020818, DIRECT, f08c47fec0942fa0
